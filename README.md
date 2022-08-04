@@ -3,7 +3,9 @@ VR Gallery for McCarthy (Google SPS)
 current link: https://gaellechar.github.io/McCarthy-Gallery-Unity/
 -Aug 3rd, 2022
 </br>
+
 <b>FIGMA
+</br>
 <img width="707" alt="Screen Shot 2022-08-03 at 8 52 10 PM" src="https://user-images.githubusercontent.com/40544155/182739841-e609b713-c1d7-4692-a507-82aaaf7b4cb4.png">
 
 </br>
